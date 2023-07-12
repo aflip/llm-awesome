@@ -6,3 +6,5 @@ Resources for using LLMs to fit your needs
 [HuggingFace](https://huggingface.co/): This is where all the models live. They have instances you can use for trianing, as well as some inference-app hosting and serving capacity. 
 
 [Hugging Face Auto train advanced](https://github.com/huggingface/autotrain-advanced) For using your own data to finetune models on huggingface
+
+[Cohere](https://cohere.com/) Model as service platform with inference APIs and a course on LLMs and how to use them  
